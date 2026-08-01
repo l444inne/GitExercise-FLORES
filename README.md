@@ -12,5 +12,4 @@ This repository was created for our WebProg Git and GitHub Exercise!
 
 ## Submitted by
   Lourainne D.Flores
-  
   BSCS-3A
