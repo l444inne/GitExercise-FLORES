@@ -11,6 +11,5 @@ This repository was created for our WebProg Git and GitHub Exercise!
 - placeholder.txt
 
 ## Submitted by
-  Lourainne D.Flores
-  
+  Lourainne D. Flores  
   BSCS-3A
